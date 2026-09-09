@@ -1,5 +1,3 @@
-# endo-security-writeups
-
 # ENDO Security Writeups
 
 Technical writeups documenting hands-on cybersecurity learning, authorized security testing, labs, CTFs, and practical research.
