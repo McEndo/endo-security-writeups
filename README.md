@@ -25,6 +25,5 @@ Topics may include:
 ```text
 endo-security-writeups/
 ├── tryhackme/
-├── ctf/
 ├── research/
 └── security-concepts/
