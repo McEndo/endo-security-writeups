@@ -1,11 +1,11 @@
-# Pickle Rick
-
 ---
 title: "Pickle Rick"
 description: "A TryHackMe write-up covering web enumeration, content discovery, command execution, and Linux privilege escalation."
 date: "2026-09-13"
 status: "published"
 ---
+
+# Pickle Rick
 
 ## Enumeration
 
