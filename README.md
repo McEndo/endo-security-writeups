@@ -27,3 +27,14 @@ endo-security-writeups/
 ├── tryhackme/
 ├── research/
 └── security-concepts/
+```
+
+## Content Model
+
+Each published document has an explicit `type` in its frontmatter:
+
+- `writeup` — hands-on lab and penetration-testing writeups
+- `note` — original technical explanations, security concepts, research, and experiments
+
+The `category` is derived from the document's top-level directory. It represents
+the subject or source of the content rather than its publication type.
